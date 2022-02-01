@@ -1,7 +1,7 @@
 ## Dropbox Python Backup Script For PostgreSQL
 
     if '04:' in str(newDate()) and int(datetime.datetime.today().weekday()) == 4:
-    # 04 is hour, and weekdays as you choose. - 👋
+    # 04 is hour, and weekdays as you choose. - 😀
 
 | Num | En  | Tr |
 | -- | ---- | --- |
