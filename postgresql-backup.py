@@ -10,7 +10,7 @@ access_token = 'EI4xgQtc***************************-p' # dropbox access token
 def main():
     # if True:
     if '04:' in str(newDate()) and int(datetime.datetime.today().weekday()) == 4:
-        filepath = '{}{}{}'.format('/home/toor/Documents/', time.strftime('%d.%m.%Y', time.localtime()).strip(),".gz")
+        filepath = '{}{}{}'.format('/home/username/Documents/', time.strftime('%d.%m.%Y', time.localtime()).strip(),".gz") # add your username :D
         execute = 'pg_dump --dbname=postgresql://user:pass@127.0.0.1:5432/backupthis_db -Z6 > {}'.format( filepath )
         os.system(execute)
 
