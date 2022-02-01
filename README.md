@@ -13,7 +13,7 @@
 | 5  | Fri  | Cum |
 | 6  | Sat  | Cmt |
   
-####logs.txt look like this:
+#### logs.txt look like this:
 
     Backup: 07.01.2022.gz [07.01.2022 04:46]
     Backup: 14.01.2022.gz [14.01.2022 04:46]
