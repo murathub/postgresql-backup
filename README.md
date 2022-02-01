@@ -5,13 +5,13 @@
 
 | Num | En  | Tr |
 | -- | ---- | --- |
-| 0  | Sun  | Paz |
-| 1  | Mon  | Pzt |
-| 2  | Tue  | Sal |
-| 3  | Wed  | Çar |
-| 4  | Thu  | Per |
-| 5  | Fri  | Cum |
-| 6  | Sat  | Cmt |
+| 0  | Mon  | Pzt |
+| 1  | Tue  | Sal |
+| 2  | Wed  | Çar |
+| 3  | Thu  | Per |
+| 4  | Fri  | Cum |
+| 5  | Sat  | Cmt |
+| 6  | Sun  | Paz |
   
 #### logs.txt look like this:
 
