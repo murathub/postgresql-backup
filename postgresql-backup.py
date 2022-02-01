@@ -5,7 +5,7 @@ import time
 import datetime
 import dropbox
 
-access_token = 'EI4xgQtc***************************-p' # dropbox access token
+access_token = 'EI4xgQtc****************************-p' # dropbox access token
 
 def main():
     # if True:
